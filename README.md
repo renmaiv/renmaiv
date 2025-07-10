@@ -5,7 +5,7 @@ That should’ve been a typical abandoned account — last time I posted somethi
 Who am I?
 
 
-I'm a Ukrainian designer and an much more worse engineer — but curiosity is my saving grace. I studied aircraft computer science simply because I love planes. That’s how I make most decisions: I try to do what I love at a given life point, or at least stay close to it. It’s not what people would call a strategic career path, but the lore I’ve gathered along the way is wild.
+I'm a Ukrainian designer and much worse engineer — but curiosity is my saving grace. I studied aircraft computer science simply because I love planes. That’s how I make most decisions: I try to do what I love at a given life point, or at least stay close to it. It’s not what people would call a strategic career path, but the lore I’ve gathered along the way is wild.
 
 What are my interests or specialties?
 

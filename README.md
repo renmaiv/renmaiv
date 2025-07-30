@@ -12,7 +12,7 @@ What are my interests or specialties?
 
 The abandoned project I’m most proud of?
 
-A timeline of design culture snapshots and stories across countries — so you could compare, say, US vs. Taiwanese vs. Moroccan product design. It was called Limelapse. Who knows — maybe I’ll travel more and bring it back.
+A timeline of design culture snapshots and stories across countries — so you could compare, say, US vs. Taiwanese vs. Moroccan product design. It was called Limelapse. Who knows — maybe I’ll travel more (or travel through other people eyes) and bring it back.
 
 <!--
 **renmaiv/renmaiv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

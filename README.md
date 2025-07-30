@@ -5,10 +5,10 @@ That should’ve been a typical abandoned account — last time I posted somethi
 
 What are my interests or specialties?
 
-- SVG/GSAP
+- SVG/GSAP (my talk on Web Standards Days)
 - Smart UI microinteractions
-- Hypergraphs (HGNN), structured memory
-- Production-ready and hands-free tools
+- Hypergraphs (HGNN)
+- Production-ready and "hands-free" tools
 
 The abandoned project I’m most proud of?
 

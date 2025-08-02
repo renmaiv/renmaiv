@@ -14,6 +14,8 @@ Revitalising in 2026:
 
 A timeline of design culture snapshots and stories across countries — so you could compare, say, US vs. Taiwanese vs. Moroccan product design. It was called Limelapse. Who knows — maybe I’ll travel more (or travel through other people eyes) and bring it back.
 
+
+See my stuff here: [irenerud.com](irenerud.com)
 <!--
 **renmaiv/renmaiv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

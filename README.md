@@ -15,5 +15,4 @@ A timeline of design culture snapshots and stories across countries — so you c
 
 Always on look out for mentors on ML/AI, expressive AI, graphs or simply for a chat.
 
-See my newest stuff here: irenerud.com
-
+See my newest stuff here: [irenerud.com](https://irenerud.com)

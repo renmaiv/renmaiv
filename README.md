@@ -2,9 +2,9 @@
 
 That should’ve been a typical abandoned account — last time I posted something was 9 years ago! Life happened, but a lot might change soon.
 
-What are my niche interests?
+What are my interests?
 
-- SVG/GSAP (old talk on Web Standards Days)
+- SVG/GSAP 
 - Smart UI microinteractions
 - Production-ready tools
 

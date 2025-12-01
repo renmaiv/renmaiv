@@ -7,7 +7,7 @@ What are my interests?
 - SVG/GSAP 
 - Smart UI microinteractions
 - Production-ready tools
-- All sorts of things, to be honest (HGNNs, maps, xAI)
+- All sorts of things, to be honest 
 
 
 Revitalising in 2026:

@@ -10,7 +10,7 @@ Visual-wise:
 - Production-ready tools
 
 Otherwise:
-- Music stuff
+- Music and geography
 - Explainable AI (glassbox); intents layer.
 
 - All sorts of things, to be honest.

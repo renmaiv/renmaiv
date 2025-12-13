@@ -1,19 +1,23 @@
 ## Hi there 👋
 
 
+### Interactions:
+Small bits to use in your project.
 
-What are my interests?
 
-Visual-wise:
-- SVG/GSAP 
-- Smart UI microinteractions
-- Production-ready tools
 
-Otherwise:
-- Music and geography
-- Explainable AI (glassbox); intents layer.
+<video src="tabs/tab_web.mp4" width="550" height="350" muted loop playsinline></video>
 
-- All sorts of things, to be honest.
+[01. Glowing Tabs, Framer]
+[source](tabs).
+
+
+
+Interests:
+- Music, biology and geography.
+- Production-ready tools.
+- Glassbox AI, AI-native.
+- All sorts of things, to be honest, please DM me.
 
 
 

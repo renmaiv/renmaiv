@@ -5,11 +5,16 @@
 Small bits to use in your project.
 
 
+<video
+  src="https://raw.githubusercontent.com/renmaiv/tidbits/main/tabs/tab_web.mp4"
+  width="550"
+  muted
+  loop
+  playsinline>
+</video>
 
-<video src="tabs/tab_web.mp4" width="550" height="350" muted loop playsinline></video>
-
-[01. Glowing Tabs, Framer]
-[source](tabs).
+[01. Glowing Tabs, Framer]<br>
+[source](https://renmaiv.github.io/tidbits/tabs/glowing-tabs.html).
 
 
 

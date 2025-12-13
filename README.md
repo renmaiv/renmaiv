@@ -4,10 +4,7 @@
 ### Interactions:
 Small bits to use in your project.
 
-
-<video width="550" muted loop playsinline controls>
-  <source src="https://github.com/renmaiv/tidbits/raw/main/tabs/tab_web.mp4" type="video/mp4">
-</video>
+<img src="https://github.com/renmaiv/tidbits/raw/main/tabs/tab.gif" width="250" />
 
 [01. Glowing Tabs, Framer]<br>
 [source](https://github.com/renmaiv/tidbits/blob/main/tabs/glowing-tabs.html).

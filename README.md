@@ -18,7 +18,7 @@
 <img src="https://github.com/renmaiv/tidbits/raw/main/molecule/molecule.gif" width="250" />
 
 [C-1. Molecule for Conversational AI institute, CSS]<br>
-[source](https://github.com/renmaiv/tidbits/blob/main/molecule/molecule.html).
+[source](https://github.com/renmaiv/tidbits/blob/main/molecule/molecule.html).**open original file to see smoothing
 
 
 Interests:
@@ -26,4 +26,3 @@ Interests:
 - Glassbox AI, AI-native.
 
 
-See my newest stuff here: [irenerud.com](https://irenerud.com)

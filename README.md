@@ -2,7 +2,6 @@
 
 
 ### Interactions:
-Small bits to use in your project.
 
 <img src="https://github.com/renmaiv/tidbits/raw/main/tabs/tab.gif" width="250" />
 
@@ -12,11 +11,8 @@ Small bits to use in your project.
 
 
 Interests:
-- Music, biology and geography.
-- Production-ready tools.
+- Production-ready and creative tools.
 - Glassbox AI, AI-native.
-- All sorts of things, to be honest, please DM me.
-
 
 
 See my newest stuff here: [irenerud.com](https://irenerud.com)

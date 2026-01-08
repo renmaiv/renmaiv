@@ -18,7 +18,7 @@
 <img src="https://github.com/renmaiv/tidbits/raw/main/molecule/molecule.gif" width="250" />
 
 [C-1. Molecule for Conversational Design Institute]<br>
-[source](https://github.com/renmaiv/tidbits/blob/main/molecule/molecule.html).**open original file to see smoothing
+[source](https://github.com/renmaiv/tidbits/blob/main/molecule/molecule.html).**open original file to see true smoothing (gifs - 🧏‍♀️ are not it)
 
 
 Interests:

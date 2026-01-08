@@ -5,14 +5,14 @@
 
 <img src="https://github.com/renmaiv/tidbits/raw/main/tabs/tab.gif" width="250" />
 
-[R-1. Glowing Tabs, React]<br>
+[R-1. Glowing Tabs]<br>
 [source](https://github.com/renmaiv/tidbits/blob/main/tabs/glowing-tabs.html).
 
 
-<img src="https://github.com/renmaiv/tidbits/raw/main/tabs/tab.gif" width="250" />
+<img src="https://github.com/renmaiv/tidbits/raw/main/precise-player/player.gif" width="250" />
 
-[SW-1. Precise playback, Swift]<br>
-[source](https://github.com/renmaiv/tidbits/blob/main/tabs/glowing-tabs.html).
+[SW-1. Precise playback]<br>
+[source](https://github.com/renmaiv/tidbits/blob/main/precise-player/player.jsx).
 
 
 <img src="https://github.com/renmaiv/tidbits/raw/main/molecule/molecule.gif" width="250" />

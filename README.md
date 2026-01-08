@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 
-### Interactions:
+### Offcuts:
 
 <img src="https://github.com/renmaiv/tidbits/raw/main/tabs/tab.gif" width="250" />
 

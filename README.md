@@ -24,5 +24,6 @@
 Interests:
 - Production-ready and creative tools.
 - Glassbox AI, AI-native.
+- a little bit of everything.
 
 

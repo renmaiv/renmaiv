@@ -5,7 +5,7 @@
 
 Offcuts is a library of 15min vibecoded experiments. See related source code and prompts.
 
-<img src="https://github.com/renmaiv/tidbits/raw/main/precise-player/player.gif" width="500" />
+<img src="https://github.com/renmaiv/tidbits/raw/main/hutsul/hutsul.gif" width="500" />
 
 [SW-1. Programmatic identity, inspired by [Hutsul](https://www.cosmos.so/e/1337625695) carpet<br>
 Sonnet 4.5/[source](https://github.com/renmaiv/tidbits/blob/main/precise-player/player.jsx).

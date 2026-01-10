@@ -3,7 +3,7 @@
 
 ### Offcuts:
 
-Offcuts is a library of 15min vibecoded experiments. See related source code and prompts.
+Offcuts is a library of 15min experiments. See related source code and prompts.
 
 <img src="https://github.com/renmaiv/tidbits/raw/main/hutsul/hutsul.gif" width="500" />
 

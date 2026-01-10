@@ -3,22 +3,27 @@
 
 ### Offcuts:
 
-<img src="https://github.com/renmaiv/tidbits/raw/main/tabs/tab.gif" width="250" />
+Offcuts is a library of 15min vibecoded experiments. See related source code and prompts.
 
-[R-1. Glowing Tabs]<br>
-[source](https://github.com/renmaiv/tidbits/blob/main/tabs/glowing-tabs.html).
+<img src="https://github.com/renmaiv/tidbits/raw/main/precise-player/player.gif" width="500" />
+
+[SW-1. Programmatic identity, inspired by [Hutsul](https://www.cosmos.so/e/1337625695) carpet<br>
+Sonnet 4.5/[source](https://github.com/renmaiv/tidbits/blob/main/precise-player/player.jsx).
 
 
-<img src="https://github.com/renmaiv/tidbits/raw/main/precise-player/player.gif" width="250" />
+<img src="https://github.com/renmaiv/tidbits/raw/main/precise-player/player.gif" width="500" />
 
 [SW-1. Precise playback]<br>
-[source](https://github.com/renmaiv/tidbits/blob/main/precise-player/player.jsx).
+Sonnet 4.5/[source](https://github.com/renmaiv/tidbits/blob/main/precise-player/player.jsx).
 
 
-<img src="https://github.com/renmaiv/tidbits/raw/main/molecule/molecule.gif" width="250" />
+<img src="https://github.com/renmaiv/tidbits/raw/main/tabs/tab.gif" width="500" />
 
-[C-1. Molecule for Conversational Design Institute]<br>
-[source](https://github.com/renmaiv/tidbits/blob/main/molecule/molecule.html).**open original file to see true smoothing (gifs - 🧏‍♀️ are not it)
+[R-1. Glowing Tabs]<br>
+Sonnet 4.5/[source](https://github.com/renmaiv/tidbits/blob/main/tabs/glowing-tabs.html).
+
+
+More in [offcuts](https://github.com/renmaiv/tidbits/blob/main/) repo.
 
 
 Interests:

@@ -10,7 +10,7 @@ For example:
 
 Offcuts is a library of 15min experiments. See related source code and prompts.
 
-<img src="https://github.com/renmaiv/tidbits/raw/main/hutsul/hutsul.gif" width="250" />
+<img src="https://github.com/renmaiv/tidbits/raw/main/hutsul/hutsul.gif" width="185" />
 
 [P-1. Programmatic identity, inspired by [Hutsul](https://www.cosmos.so/e/1337625695)]<br>
 Sonnet 4.5/[source](https://github.com/renmaiv/tidbits/blob/main/hutsul/hutsul.html).

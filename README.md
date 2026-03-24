@@ -1,5 +1,5 @@
 ### Skills:
-After a while working with Cursor, I started creating skills that spot common vibe-coding antipatterns and keep code maintainable long-term. Use Tessl registry to find more useful skills.
+After a while working with Cursor, I started creating skills that spot common vibe-coding antipatterns and keep my projects maintainable. Use Tessl registry to find more useful skills.
 
 For example:
 <code> npx tessl i github:renmaiv/nextjs-modularise@cffc807 --skill nextjs-app-router-modularization </code>

@@ -1,5 +1,5 @@
 ### Skills:
-After a while working with Cursor, I started creating skills that spot common antipatterns and keep my projects maintainable. Use Tessl registry to find more useful skills.
+After a while working with CC, I started creating skills that spot common antipatterns and keep my projects maintainable. Use Tessl registry to find more of them.
 
 For example:
 <code> npx tessl i github:renmaiv/nextjs-modularise@cffc807 --skill nextjs-app-router-modularization </code>
